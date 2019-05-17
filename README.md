@@ -1,3 +1,9 @@
+A simple react component (password input) that changes border colour based on the strength of the password.
+
+The password input checks the length, presence of uppercase and lowercase characters, special characters and based on that changes the border colour of the input field.
+
+No extra dependencies.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
